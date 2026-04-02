@@ -56,7 +56,7 @@
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/mineloulou/urabot.git
+git clone https://github.com/Mineloulou/Bot-
 cd urabot
 ```
 
